@@ -16,3 +16,5 @@ set hidden              " Hide buffers when they are abandoned
 set number              " Show line numbers
 set visualbell					" Enable visual bell
 set t_vb=								" Set effect to nothing	
+set foldmethod=syntax		" Fold method to syntax
+
